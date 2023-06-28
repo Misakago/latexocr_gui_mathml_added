@@ -1,0 +1,2 @@
+# latexocr_gui_mathml_added
+增加了mathml输出选项
